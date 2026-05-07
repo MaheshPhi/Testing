@@ -1,0 +1,17 @@
+# Secret files
+.env
+
+# Log files
+*.log
+
+# Build folder
+build/
+
+# Windows files
+Thumbs.db
+
+# Mac files
+.DS_Store
+
+# Node modules
+node_modules/
