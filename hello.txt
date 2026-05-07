@@ -3,3 +3,4 @@ Hello from Master
 =======
 Hello from Feature Branch
 >>>>>>> conflict-test
+Master new change
